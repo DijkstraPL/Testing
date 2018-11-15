@@ -11,6 +11,7 @@ namespace MacroStarter
         static void Main(string[] args)
         {
             Tekla.Structures.Model.Operations.Operation.RunMacro("TeklaToolsStarter.cs");
+            // Test
         }
     }
 }
