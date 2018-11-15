@@ -13,6 +13,7 @@ namespace ReinforcementCalc
         public static void Metoda(this Beam beam, int value)
         {
             Console.WriteLine("value");
+            Console.WriteLine("value");
         }
     }
 }

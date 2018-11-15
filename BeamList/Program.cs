@@ -17,7 +17,7 @@ namespace BeamList
                 Console.WriteLine("1. Show list of available beams.");
                 Console.WriteLine("2. Add new beam");
                 Console.WriteLine("3. Remove beam");
-                Console.WriteLine("4. Close");
+                Console.WriteLine("4. Closed");
 
                 int selection = Int32.Parse(Console.ReadLine());
 
