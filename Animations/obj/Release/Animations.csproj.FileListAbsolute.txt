@@ -1,0 +1,15 @@
+C:\Users\cnskokan\source\repos\TestApp\Animations\bin\Release\Animations.exe.config
+C:\Users\cnskokan\source\repos\TestApp\Animations\bin\Release\Animations.exe
+C:\Users\cnskokan\source\repos\TestApp\Animations\bin\Release\Animations.pdb
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\MainWindow.g.cs
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\App.g.cs
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations_MarkupCompile.cache
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations_MarkupCompile.lref
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\MainWindow.baml
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.g.resources
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.Properties.Resources.resources
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.csproj.GenerateResource.Cache
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.exe
+C:\Users\cnskokan\source\repos\TestApp\Animations\obj\Release\Animations.pdb

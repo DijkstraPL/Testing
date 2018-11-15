@@ -1,0 +1,2 @@
+C:\Users\cnskokan\source\repos\TestApp\ObjDir\2017\FredrikHelper\FredrikHelper.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\ObjDir\2017\FredrikHelper\FredrikHelper.csproj.CoreCompileInputs.cache

@@ -1,0 +1,6 @@
+C:\Users\cnskokan\source\repos\TestApp\Async\bin\Release\Async.exe.config
+C:\Users\cnskokan\source\repos\TestApp\Async\bin\Release\Async.exe
+C:\Users\cnskokan\source\repos\TestApp\Async\bin\Release\Async.pdb
+C:\Users\cnskokan\source\repos\TestApp\Async\obj\Release\Async.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\Async\obj\Release\Async.exe
+C:\Users\cnskokan\source\repos\TestApp\Async\obj\Release\Async.pdb

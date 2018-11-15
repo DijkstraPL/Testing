@@ -1,0 +1,15 @@
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\bin\Release\ReinforcementCalc.exe.config
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\bin\Release\ReinforcementCalc.exe
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\bin\Release\ReinforcementCalc.pdb
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\MainWindow.g.cs
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\App.g.cs
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc_MarkupCompile.cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc_MarkupCompile.lref
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\MainWindow.baml
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.g.resources
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.Properties.Resources.resources
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.csproj.GenerateResource.Cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.exe
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalc\obj\Release\ReinforcementCalc.pdb

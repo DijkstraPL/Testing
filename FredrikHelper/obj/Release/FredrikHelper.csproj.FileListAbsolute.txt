@@ -1,0 +1,6 @@
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Release\FredrikHelper.exe.config
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Release\FredrikHelper.exe
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Release\FredrikHelper.pdb
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Release\FredrikHelper.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Release\FredrikHelper.exe
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Release\FredrikHelper.pdb

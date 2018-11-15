@@ -1,0 +1,16 @@
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\ReinforcementCalcTests.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\ReinforcementCalcTests.pdb
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\ReinforcementCalc.exe
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\ReinforcementCalc.pdb
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\ReinforcementCalc.exe.config
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\obj\Debug\ReinforcementCalcTests.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\obj\Debug\ReinforcementCalcTests.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\obj\Debug\ReinforcementCalcTests.dll
+C:\Users\cnskokan\source\repos\TestApp\ReinforcementCalcTests\obj\Debug\ReinforcementCalcTests.pdb

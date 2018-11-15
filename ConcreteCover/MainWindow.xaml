@@ -1,0 +1,53 @@
+﻿<Window x:Class="ConcreteCover.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ConcreteCover"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <StackPanel Margin="5,0,0,0">
+            <TextBlock Text="OTULENIE" FontSize="40" FontWeight="Bold" HorizontalAlignment="Center"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Średnica pręta:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <TextBox Width="100" Height="30" x:Name="barDiameter"/>
+                <TextBlock Text="mm" VerticalAlignment="Center" Margin="5,0,0,0"/>
+            </StackPanel>
+            <CheckBox Content="Kruszywo > 32mm" x:Name="aggregate"/>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Klasa ekspozycji:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <ComboBox Width="100" Height="30" x:Name="exposure">
+                    <ComboBoxItem>X0</ComboBoxItem>
+                    <ComboBoxItem>XC1</ComboBoxItem>
+                    <ComboBoxItem>XC2/XC3</ComboBoxItem>
+                    <ComboBoxItem>XC4</ComboBoxItem>
+                    <ComboBoxItem>XD1</ComboBoxItem>
+                    <ComboBoxItem>XD2/XS1</ComboBoxItem>
+                    <ComboBoxItem>XD3/XS2/XS3</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="Klasa wytrzymałości:" VerticalAlignment="Center" Margin="0,0,5,0"/>
+                <ComboBox Width="100" Height="30" x:Name="strengthClass">
+                    <ComboBoxItem>C20/25</ComboBoxItem>
+                    <ComboBoxItem>C25/30</ComboBoxItem>
+                    <ComboBoxItem>C30/37</ComboBoxItem>
+                    <ComboBoxItem>C35/45</ComboBoxItem>
+                    <ComboBoxItem>C40/50</ComboBoxItem>
+                    <ComboBoxItem>C45/55</ComboBoxItem>
+                    <ComboBoxItem>C50/60</ComboBoxItem>
+                </ComboBox>
+            </StackPanel>
+            <CheckBox Content="Użytkowanie > 100lat" x:Name="longService"/>
+            <CheckBox Content="Kształt płyty" x:Name="plateShape"/>
+            <CheckBox Content="Specjalna kontrola jakości betonu" x:Name="concreteControl"/>
+
+            <Button Width="100" Height="40" Content="Calculate" x:Name="calculate" Click="calculate_Click"/>
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Cnom:" FontSize="40" FontWeight="Bold"/>
+                <TextBlock x:Name="cover" FontSize="40" FontWeight="Bold"/>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\bin\Debug\ConcreteCover.exe.config
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\bin\Debug\ConcreteCover.exe
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\bin\Debug\ConcreteCover.pdb
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\MainWindow.g.cs
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\App.g.cs
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover_MarkupCompile.cache
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover_MarkupCompile.lref
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\MainWindow.baml
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.g.resources
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.Properties.Resources.resources
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.csproj.GenerateResource.Cache
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.exe
+C:\Users\cnskokan\source\repos\TestApp\ConcreteCover\obj\Debug\ConcreteCover.pdb

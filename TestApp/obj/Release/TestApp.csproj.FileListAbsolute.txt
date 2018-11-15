@@ -1,0 +1,6 @@
+C:\Users\cnskokan\source\repos\TestApp\TestApp\bin\Release\TestApp.exe.config
+C:\Users\cnskokan\source\repos\TestApp\TestApp\bin\Release\TestApp.exe
+C:\Users\cnskokan\source\repos\TestApp\TestApp\bin\Release\TestApp.pdb
+C:\Users\cnskokan\source\repos\TestApp\TestApp\obj\Release\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\TestApp\obj\Release\TestApp.exe
+C:\Users\cnskokan\source\repos\TestApp\TestApp\obj\Release\TestApp.pdb

@@ -1,0 +1,11 @@
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\FredrikHelper.exe.config
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\FredrikHelper.exe
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\FredrikHelper.pdb
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Debug\FredrikHelper.csprojResolveAssemblyReference.cache
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Debug\FredrikHelper.csproj.CoreCompileInputs.cache
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Debug\FredrikHelper.exe
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\obj\Debug\FredrikHelper.pdb
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\PostSharp.dll
+C:\Users\cnskokan\source\repos\TestApp\FredrikHelper\bin\Debug\PostSharp.xml
