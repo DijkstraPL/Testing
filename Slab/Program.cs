@@ -29,7 +29,7 @@ namespace Slab
                 }
 
                 slab.Class = "5";
-                slab.Profile.ProfileString = "205";
+                slab.Profile.ProfileString = "300";
 
                 slab.Insert();
                 
